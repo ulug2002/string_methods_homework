@@ -8,5 +8,6 @@ def main(s):
     """
     
     return s()
-s = 'sasxd'.capitalize
+s = 'asdafa'.upper
 print(main(s))
+
