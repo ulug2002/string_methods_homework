@@ -7,4 +7,6 @@ def main(s):
         bool: answer
     """
     
-    return
+    return s()
+s = 'saasda'.islower
+print(main(s))
