@@ -7,4 +7,6 @@ def main(s):
         str: answer
     """
 
-    return
+    return s()
+s = 'ASDASDA'.lower
+print(main(s))
