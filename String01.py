@@ -6,8 +6,5 @@ def main(s):
     Returns:
         str: answer
      """
-     return s()
-s = "sdfghj".upper
-print(main(s))
-
-
+     return (s.upper())
+print(s = 'sadd')
